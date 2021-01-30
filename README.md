@@ -1,15 +1,12 @@
 <div align="center">
 
 
-  <img height="150" width="150" src="https://user-images.githubusercontent.com/59385491/106349298-4c8f0500-6310-11eb-9695-8c970e14626a.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/59385491/103657753-9f91c880-4fad-11eb-8442-1549ff414643.jpg" > </p>
 
-  
-<br>
-<br>
-
-
-<img height="50" width="120" src="https://user-images.githubusercontent.com/59385491/99065767-39ab4500-25eb-11eb-9490-9d2a4202dd96.png">
 <p>
+
+
+ <img height="150" width="150" src="https://user-images.githubusercontent.com/59385491/106349298-4c8f0500-6310-11eb-9695-8c970e14626a.png">
 
 <p>
 
@@ -30,7 +27,7 @@
 
 <br>
 
-## 👨‍💻 ON-SOPT에서 타입스크립트를 공부해보자!
+## 👨‍💻 미닝에서 타입스크립트를 공부해보자!
 
 
 <br>
