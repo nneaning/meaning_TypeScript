@@ -1,4 +1,4 @@
-let todoItems
+let todoItems: any;
 
 // api
 function fetchTodoItems() {
@@ -16,15 +16,15 @@ function fetchTodos() {
   return todos;
 }
 
-function addTodo(todo) {
+function addTodo(todo: {id: number, title: string, done:boolean}) {
   todoItems.push(todo);
 }
 
-function deleteTodo(index) {
+function deleteTodo(index: number) {
   todoItems.splice(index, 1);
 }
 
-function completeTodo(index, todo) {
+function completeTodo(index: number, todo: {id: number, title: string, done:boolean}) {
   todo.done = true;
   todoItems.splice(index, 1, todo);
 }
